@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+		<string-array name="station_array">
+			<item>ADARSH NAGAR</item>
+			<item>AIIMS</item>
+
+			<item>AKSHARDHAM</item>
+			<item>ANAND VIHAR</item>
+			<item>ARJANGARH</item>
+			<item>ASHOK PARK MAIN</item>
+			<item>AZADPUR</item>
+			<item>BADARPUR</item>
+
+			<item>BARAKHAMBA</item>
+			<item>BOTANICAL GARDEN</item>
+			<item>CENTRAL SECRETARIAT</item>
+			<item>CHANDNI CHOWK</item>
+			<item>CHAWRI BAZAR</item>
+			<item>CHHATTARPUR</item>
+
+			<item>CIVIL LINES</item>
+			<item>DILSHAD GARDEN</item>
+			<item>DWARKA</item>
+			<item>DWARKA MOR</item>
+			<item>DWARKA SEC 10</item>
+			<item>DWARKA SEC 11</item>
+
+			<item>DWARKA SEC 12</item>
+			<item>DWARKA SEC 13</item>
+			<item>DWARKA SEC 14</item>
+			<item>DWARKA SEC 21</item>
+			<item>DWARKA SEC 8</item>
+			<item>DWARKA SEC 9</item>
+
+			<item>G.T.B. NAGAR</item>
+			<item>GHITORNI</item>
+			<item>GOLF COURSE</item>
+			<item>GOVIND PURI</item>
+			<item>GREEN PARK</item>
+			<item>GURU DRONACHARYA</item>
+
+			<item>HAUZ KHAS</item>
+			<item>HUDA CITY CENTRE</item>
+			<item>IFFCO CHOWK</item>
+			<item>INA</item>
+			<item>INDER LOK</item>
+			<item>INDRAPRASTHA</item>
+
+			<item>JAHANGIRPURI</item>
+			<item>JANAK PURI EAST</item>
+			<item>JANAK PURI WEST</item>
+			<item>JANGPURA</item>
+			<item>JASOLA APOLLO</item>
+			<item>JHANDEWALAN</item>
+			<item>JHIL MIL</item>
+			<item>JLN STADIUM</item>
+			<item>JORBAGH</item>
+			<item>KAILASH COLONY</item>
+			<item>KALKAJI MANDIR</item>
+			<item>KANHAIYA NAGAR</item>
+
+			<item>KARKAR DUMA</item>
+			<item>KAROL BAGH</item>
+			<item>KASHMERE GATE</item>
+			<item>KAUSHAMBI</item>
+			<item>KESHAV PURAM</item>
+			<item>KHAN MARKET</item>
+
+			<item>KIRTI NAGAR</item>
+			<item>KOHAT ENCLAVE</item>
+			<item>LAJPAT NAGAR</item>
+			<item>LAXMI NAGAR</item>
+			<item>M G ROAD</item>
+			<item>MADI PUR</item>
+
+			<item>MALVIYA NAGAR</item>
+			<item>MANDI HOUSE</item>
+			<item>MANSAROVAR PARK</item>
+			<item>MAYUR VIHAR-I</item>
+			<item>MAYUR VIHAR-I EXT</item>
+			<item>MODEL TOWN</item>
+
+			<item>MOHAN ESTATE</item>
+			<item>MOOLCHAND</item>
+			<item>MOTI NAGAR</item>
+			<item>MUNDKA</item>
+			<item>NANGLOI</item>
+			<item>NANGLOI RLY. STATION</item>
+
+			<item>NAWADA</item>
+			<item>NEHRU PLACE</item>
+			<item>NETAJI SUBHASH PLACE</item>
+			<item>NEW ASHOK NAGAR</item>
+			<item>NEW DELHI</item>
+			<item>NIRMAN VIHAR</item>
+
+			<item>NOIDA CITY CENTRE</item>
+			<item>NOIDA SEC 15</item>
+			<item>NOIDA SEC 16</item>
+			<item>NOIDA SEC 18</item>
+			<item>OKHLA</item>
+			<item>PASCHIM VIHAR (EAST)</item>
+
+			<item>PASCHIM VIHAR (WEST)</item>
+			<item>PATEL CHOWK</item>
+			<item>PATEL NAGAR</item>
+			<item>PEERA GARHI</item>
+			<item>PITAM PURA</item>
+			<item>PRAGATI MAIDAN</item>
+			<item>PRATAP NAGAR</item>
+			<item>PREET VIHAR</item>
+			<item>PUL BANGASH</item>
+			<item>PUNJABI BAGH</item>
+			<item>QUTAB MINAR</item>
+			<item>RACE COURSE</item>
+
+			<item>RAJDHANI PARK</item>
+			<item>RAJENDRA PLACE</item>
+			<item>RAJIV CHOWK</item>
+			<item>RAJOURI GARDEN</item>
+			<item>RAMESH NAGAR</item>
+			<item>RITHALA</item>
+
+			<item>RK ASHRAM MARG</item>
+			<item>ROHINI EAST</item>
+			<item>ROHINI WEST</item>
+			<item>SAKET</item>
+			<item>SARITA VIHAR</item>
+			<item>SEELAMPUR</item>
+
+			<item>SHADIPUR</item>
+			<item>SHAHDARA</item>
+			<item>SHASTRI NAGAR</item>
+			<item>SHASTRI PARK</item>
+			<item>SHIVAJI PARK</item>
+			<item>SIKANDARPUR</item>
+
+			<item>SUBHASH NAGAR</item>
+			<item>SULTANPUR</item>
+			<item>SURAJMAL STADIUM</item>
+			<item>TAGORE GARDEN</item>
+			<item>TILAK NAGAR</item>
+			<item>TIS HAZARI</item>
+
+			<item>TUGHLAKABAD</item>
+			<item>UDYOG BHAWAN</item>
+			<item>UDYOG NAGAR</item>
+			<item>UTTAM NAGAR EAST</item>
+			<item>UTTAM NAGAR WEST</item>
+			<item>VAISHALI</item>
+
+			<item>VIDHAN SABHA</item>
+			<item>VISHWAVIDYALAYA</item>
+			<item>WELCOME</item>
+			<item>YAMUNA BANK</item>
+		
+  </string-array>
+</resources>		
